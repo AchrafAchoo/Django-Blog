@@ -1,3 +1,2 @@
 # Django-Blog
 Django Blog
-.
